@@ -1,8 +1,9 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
+using MadLibs.Models;
 
-namespace FileName
+namespace MadLibs
 {
   public class Program
   {

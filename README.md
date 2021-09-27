@@ -28,7 +28,7 @@ Detailed description
 * Clone [this](github.com/yourName/repoName) repository, or download and open the Zip on your local machine
 * Open the FOLDER NAME folder in your preferred text editor
 * Restore and build the project:
-  - Navigate to the FileName.Solutions/FileName folder in the command line or terminal 
+  - Navigate to the MadLibs.Solutions/MadLibs folder in the command line or terminal 
     -- Run the command "$ dotnet restore" to restore the project dependencies
     -- Run the command "$ dotnet build" to build and compile the project
     -- Run the command "$ dotnet run" to build and compile the project
