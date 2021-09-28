@@ -1,8 +1,8 @@
-# Name of Project
+# Mad Libs
 
-#### short description of the app
+#### this application allows users to play various Mad Libs
 
-#### Created By: Name
+#### Created By: Chynna Lew & Kevin Funez
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-Detailed description
+This application was an exercise for the Epicodus bootcamp program to practice creating broweser applications using ASP.NET Core MVC. The app contains two different madlibs for the user to play.
 
 ## Setup and Usage Instructions
 
@@ -25,7 +25,7 @@ Detailed description
 
 ### Installation
 
-* Clone [this](github.com/yourName/repoName) repository, or download and open the Zip on your local machine
+* Clone [this](github.com/yourName/C-MadLibs) repository, or download and open the Zip on your local machine
 * Open the FOLDER NAME folder in your preferred text editor
 * Restore and build the project:
   - Navigate to the MadLibs.Solutions/MadLibs folder in the command line or terminal 
@@ -40,9 +40,9 @@ Detailed description
 ### License
 
 [MIT License](https://opensource.org/licenses/MIT)
-Copyright 2021 Name
+Copyright 2021
 
 ## Support and contact details
 
-* [Name](github.com/yourGitHub) 
-* <email@email.com>
+* [Chynna Lew](github.com/chynnalew) 
+* <chynnalew@yahoo.com>
